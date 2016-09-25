@@ -8,7 +8,7 @@ This image was created specifically for usage with continuous integration system
 
 ### Base Image
 
-* [node](https://hub.docker.com/_/node/) -  Latest version of Node
+* [node (argon-slim)](https://hub.docker.com/r/library/node/) - Slim version of the latest Node LTS image
 
 ### Additional Node Modules
 
