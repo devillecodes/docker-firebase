@@ -12,7 +12,7 @@ systems.
 
 ### Base Image
 
-* [node-slim (carbon)](https://hub.docker.com/r/library/node/) - The latest Node
+* [node (carbon)](https://hub.docker.com/r/library/node/) - The latest Node
   LTS (Carbon) image
 
 ### Additional Node Modules
