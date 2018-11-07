@@ -12,10 +12,10 @@ systems.
 
 ### Base Image
 
-* [node (carbon)](https://hub.docker.com/r/library/node/) - The latest Node LTS
-  (Carbon) image
+- [node (dubnium)](https://hub.docker.com/r/library/node/) - The latest Node
+  LTS (currently Dubnium) image
 
 ### Additional Node Modules
 
-* [Firebase CLI](https://github.com/firebase/firebase-tools) - Firebase Command
+- [Firebase CLI](https://github.com/firebase/firebase-tools) - Firebase Command
   Line Tools. Required to deploy to Firebase.
