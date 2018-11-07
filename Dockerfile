@@ -1,5 +1,5 @@
-# use latest Node LTS (Carbon)
-FROM node:carbon-slim
+# use latest Node LTS (currently Dubnium)
+FROM node:dubnium-slim
 
 # set user to avoid permission issues
 # (see https://github.com/nodejs/node-gyp/issues/1236)
