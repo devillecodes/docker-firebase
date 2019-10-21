@@ -1,5 +1,5 @@
-# use latest Node LTS (currently Dubnium)
-FROM node:dubnium-slim
+# use latest Node LTS (currently v12.x.x or code name Erbium)
+FROM node:12-slim
 
 # set user to avoid permission issues
 # (see https://github.com/nodejs/node-gyp/issues/1236)

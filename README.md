@@ -12,8 +12,8 @@ systems.
 
 ### Base Image
 
-- [node (dubnium)](https://hub.docker.com/r/library/node/) - The latest Node
-  LTS (currently Dubnium) image
+- [node (erbium)](https://hub.docker.com/r/library/node/) - The latest Node
+  LTS (currently v12.x.x or code name Erbium) image
 
 ### Additional Node Modules
 
