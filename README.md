@@ -12,8 +12,8 @@ systems.
 
 ### Base Image
 
-- [node (erbium)](https://hub.docker.com/r/library/node/) - The latest Node
-  LTS (currently v12.x.x or code name Erbium) image
+- [node (lts)](https://hub.docker.com/r/library/node/) - The latest Node
+  LTS image
 
 ### Additional Node Modules
 
